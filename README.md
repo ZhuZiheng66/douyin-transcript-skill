@@ -36,6 +36,12 @@
 
 ## 快速使用
 
+仓库地址：<https://github.com/ZhuZiheng66/douyin-transcript-skill>
+
+跨 Agent 原始指令文件：<https://raw.githubusercontent.com/ZhuZiheng66/douyin-transcript-skill/main/AGENTS.md>
+
+如果 Agent 能读取 GitHub 文件，让它先读取 `AGENTS.md`；如果不能联网读取，就复制仓库中的 `AGENTS.md` 内容给它。
+
 把下面这段话和抖音链接一起发给任意 Agent：
 
 > 读取这个仓库中的 `AGENTS.md`，按其中的“抖音口播逐字稿提取规范”执行。不要下载视频文件，不要采集评论正文。请提取视频完整口播逐字稿和元数据，按规范校对、分段、加标点，最后输出 Markdown 文案。
