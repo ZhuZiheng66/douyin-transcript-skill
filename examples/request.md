@@ -1,4 +1,8 @@
-读取这个仓库中的 `AGENTS.md`，按其中的“抖音口播逐字稿提取规范”执行。
+请打开并读取这个 GitHub 仓库：
+https://github.com/ZhuZiheng66/douyin-transcript-skill
+
+优先读取仓库根目录的 `AGENTS.md`，并按其中的“抖音口播逐字稿提取规范”执行。如果无法读取仓库页面，请读取：
+https://raw.githubusercontent.com/ZhuZiheng66/douyin-transcript-skill/main/AGENTS.md
 
 不要下载视频文件，不要分析画面，不要采集评论正文。请提取以下抖音视频的完整口播逐字稿和元数据：
 
