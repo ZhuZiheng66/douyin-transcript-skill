@@ -44,7 +44,9 @@
 
 把下面这段话和抖音链接一起发给任意 Agent：
 
-> 读取这个仓库中的 `AGENTS.md`，按其中的“抖音口播逐字稿提取规范”执行。不要下载视频文件，不要采集评论正文。请提取视频完整口播逐字稿和元数据，按规范校对、分段、加标点，最后输出 Markdown 文案。
+> 请打开并读取这个 GitHub 仓库：<https://github.com/ZhuZiheng66/douyin-transcript-skill>。优先读取仓库根目录的 `AGENTS.md`，并严格按其中的“抖音口播逐字稿提取规范”执行。若无法读取仓库页面，请读取原始文件：<https://raw.githubusercontent.com/ZhuZiheng66/douyin-transcript-skill/main/AGENTS.md>。
+>
+> 不要下载视频文件，不要采集评论正文。请提取视频完整口播逐字稿和元数据，按规范校对、分段、加标点，最后输出 Markdown 文案。
 >
 > 视频链接：`粘贴 v.douyin.com 或 douyin.com/video 链接`
 
